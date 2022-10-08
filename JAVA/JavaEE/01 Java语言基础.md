@@ -30,7 +30,7 @@
 
 但是Java仍然会出现内存泄漏和内存溢出的问题
 
-## 2.1 JDK与JRE
+## 1.3 JDK与JRE
 
 JDK(Java Development Kit Java开发工具包)
 JDK是提供给Java开发人员使用的，其中包含了java的开发工具，也包括了JRE。所以安装了JDK，就不用在单独安装JRE了。
@@ -42,7 +42,7 @@ JRE(Java Runtime Environment Java运行环境)
 
 总结：使用JDK的开发工具完成的java程序交给JRE去运行。
 
-## 2.2 JDK、JRE与JVM
+## 1.4 JDK、JRE与JVM
 
 JDK = JRE + 开发工具集    
 JRE = JVM + Java SE标准类库
