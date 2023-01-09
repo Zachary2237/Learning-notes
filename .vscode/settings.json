@@ -5,5 +5,15 @@
         "xlocale": "cpp",
         "iostream": "cpp"
     },
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/.vscode": true,
+        "**/*.exe": true,
+        "**/*.idea": true,     
+      },
     "C_Cpp.errorSquiggles": "enabled"
 }
